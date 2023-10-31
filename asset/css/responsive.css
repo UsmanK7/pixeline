@@ -1,0 +1,90 @@
+@media only screen and (max-width:1200px){
+    .f-72{
+        font-size: 60px;
+        line-height: 60px;
+    }
+    .navbar-nav{
+        width: 85%;
+    }
+    .mt-200{
+        margin-top: 50px !important;
+    }
+    .skills-card-2{
+        margin-right: unset !important;
+    }
+    .skills-card-3{
+        margin-left: unset !important;
+    }
+  
+   
+}
+
+@media only screen and (max-width:991px){
+    .bg-green {
+        display: none !important;
+    }
+    .skills-card-div{
+        margin-top: 30px;
+    }
+    .no-margin{
+        margin-top: 0px !important;
+    }
+}
+@media only screen and (max-width:767px){
+    
+    .padding{
+        padding: 0px 30px ;
+    }
+    .green-btn{
+        padding: 0px 15px;
+    }
+    .border-right{
+    border-right: 0px !important;
+    }
+    .smt-20{
+       margin-top: 30px !important;
+    }
+    .skills-card .d-flex{
+        flex-direction: column !important;
+    }
+    .skills-icon-div{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px !important;
+    }
+    .skills-icon{
+        margin-right: 0px !important;
+        margin-bottom: 20px !important;
+    }
+    .footer-div{
+        flex-direction: column !important;
+        justify-content: center !important;
+        align-items: center !important;
+        text-align: center;
+    }
+    .footer-text{
+        margin-top: 20px;
+    }
+    /* .skills-text{
+        margin-top: 30px;
+    } */
+}
+@media only screen and (max-width:550px){
+    .f-72{
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .padding{
+        padding: 0px 10px ;
+    }
+    .consultation{
+        margin: 0px !important;
+      }
+      .green-btn{
+        width: 100% !important ;
+      }
+    .buttonS {
+        margin-top: 30px;
+        width: 100%;
+    }
+}
